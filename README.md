@@ -25,7 +25,6 @@ Each level begins at the red launch pad. To complete the mission, the rocket nee
 3_Project_Boost.exe
 ```
 
-
 ## Sneak Peek
 
 
