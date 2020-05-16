@@ -4,7 +4,7 @@ Lost in Space, the space commander finds himself in trouble with lost communicat
 
 ## Aim of Game
 
-Help Commander Mack get to the landing station where he can get his radio signal and complete hus mission.
+Help Commander Mack get to the landing station where he can get his radio signal and complete his mission.
 
 ## Main Game Mechanic
 
