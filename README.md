@@ -15,3 +15,22 @@ Each level begins at the red launch pad. To complete the mission, the rocket nee
 * A : Rotate Left
 * D : Rotate Right
 * Space : Activate Rocket Thrusters
+
+## Installing the Game
+
+* Fork and Clone the Repository
+
+* Run the following file
+```
+3_Project_Boost.exe
+```
+
+### Sneak Peek
+
+![](https://github.com/Omisha99/Galactic-Survivor/blob/master/Gallery/1.JPG)
+
+![](https://github.com/Omisha99/Galactic-Survivor/blob/master/Gallery/2.JPG)
+
+![](https://github.com/Omisha99/Galactic-Survivor/blob/master/Gallery/3.png)
+
+![](https://github.com/Omisha99/Galactic-Survivor/blob/master/Gallery/4.PNG)
