@@ -28,7 +28,7 @@ Each level begins at the red launch pad. To complete the mission, the rocket nee
 ### Sneak Peek
 
 
-![](https://omisha99.github.io/Galactic-Survivor/Gallery/1.JPG)
+![Demo](https://omisha99.github.io/Galactic-Survivor/Gallery/1.JPG)
 
 ![](https://omisha99.github.io/Galactic-Survivor/Gallery/2.JPG)
 
